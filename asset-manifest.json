@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/webfood/static/css/main.1b20477e.chunk.css",
+    "main.js": "/webfood/static/js/main.524c87a9.chunk.js",
+    "main.js.map": "/webfood/static/js/main.524c87a9.chunk.js.map",
+    "runtime-main.js": "/webfood/static/js/runtime-main.20a2a525.js",
+    "runtime-main.js.map": "/webfood/static/js/runtime-main.20a2a525.js.map",
+    "static/js/2.a803a860.chunk.js": "/webfood/static/js/2.a803a860.chunk.js",
+    "static/js/2.a803a860.chunk.js.map": "/webfood/static/js/2.a803a860.chunk.js.map",
+    "index.html": "/webfood/index.html",
+    "precache-manifest.e632930fb0778276aae0ad81e76b2170.js": "/webfood/precache-manifest.e632930fb0778276aae0ad81e76b2170.js",
+    "service-worker.js": "/webfood/service-worker.js",
+    "static/css/main.1b20477e.chunk.css.map": "/webfood/static/css/main.1b20477e.chunk.css.map",
+    "static/js/2.a803a860.chunk.js.LICENSE.txt": "/webfood/static/js/2.a803a860.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/webfood/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.20a2a525.js",
+    "static/js/2.a803a860.chunk.js",
+    "static/css/main.1b20477e.chunk.css",
+    "static/js/main.524c87a9.chunk.js"
+  ]
+}
